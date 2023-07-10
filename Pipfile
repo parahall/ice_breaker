@@ -10,6 +10,7 @@ openai = "*"
 requests = "*"
 google-search-results = "*"
 tweepy = "*"
+flask = "*"
 
 [dev-packages]
 
